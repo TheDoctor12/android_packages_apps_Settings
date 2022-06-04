@@ -235,4 +235,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Touch the sensor on the side of your device.</string>
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Touch the sensor on the side of your phone.</string>
 
+    <string name="screen_off_udfps_title">Keep fingerprint enabled</string>
+    <string name="screen_off_udfps_summary">Keep the fingerprint reader enabled when the screen is turned off</string>
+
 </resources>
