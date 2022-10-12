@@ -80,7 +80,6 @@ public class GesturesSettingPreferenceController extends BasePreferenceControlle
         controllers.add(new SwipeToScreenshotPreferenceController(context, FAKE_PREF_KEY));
         controllers.add(new ScreenOffUdfpsPreferenceController(context, FAKE_PREF_KEY)
                 .setConfig(ambientDisplayConfiguration));
-        controllers.add(new VolumeButtonMusicControlPreferenceController(context, FAKE_PREF_KEY));
         controllers.add(new PowerButtonTorchGesturePreferenceController(context, FAKE_PREF_KEY));
         return controllers;
     }
